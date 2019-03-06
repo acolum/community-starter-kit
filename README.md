@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An automated welcome to the community.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- says "hello"
+- welcomes you to the community
+- informs you how you can contribute
 
 ## Getting started
 
