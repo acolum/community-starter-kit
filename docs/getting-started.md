@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to this open source project!
+
+Thanks for opening up a new issue!
+
+Congrats! Your first PR was just merged!
